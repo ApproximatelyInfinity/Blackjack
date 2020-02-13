@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0f6125ae203d537419a70c4922eb9e4a
+timeCreated: 1486532531
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Intramural Roundstroke JL
+  fontNames:
+  - Intramural Roundstroke JL
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
