@@ -19,3 +19,5 @@ If your initial score is below 21 you can press "HIT" to get another card, or "S
 To start a new game hit "REBET", and then the process will start all over again.   
 
 ![Imgur](https://i.imgur.com/vvCB9xt.png)
+
+![Imgur](https://i.imgur.com/1Rxp1oV.png)
